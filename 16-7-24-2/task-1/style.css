@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color:blue;
+    font-size: larger;
+}
+img{
+    width:250px;
+    height:250px;
+}
+.galaxy{
+    background-color: rgb(204, 195, 195);
+    width:500px;
+    border:2px solid black;
+    border-radius: 10px;
+    border-style: dashed;
+    padding: 50px;
+    margin: 150px;
+    text-align: center;
+}
+.text{
+    border:2px solid black;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(139, 136, 136);
+    max-width: 500px;
+    min-width:100px;
+    max-height: 100px;
+    min-height: 200px;
+    overflow-y: scroll;
+ 
+}
+p{
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    
+}

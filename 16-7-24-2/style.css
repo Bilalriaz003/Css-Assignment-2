@@ -1,0 +1,19 @@
+
+.box {
+    max-width: fit-content;
+    max-height: fit-content;
+    border-width: 10px;
+    border-style: solid;
+    padding: 100px;
+    margin: 100px auto;
+    box-shadow: 10px 2px grey;
+    color: rgb(161, 161, 159);
+    background-color: aqua;
+    border-radius: 10px;
+}
+a{
+    font-size:xx-large;
+    text-decoration: none;
+    color:rgb(119, 170, 16);
+    padding: 50px;
+}
